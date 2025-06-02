@@ -9,7 +9,7 @@ from telegram.ext import Updater, CommandHandler
 TELEGRAM_TOKEN = "1701760957:AAHYs626-DnndxSeS9N_7y1_2V3Vn071Yck"
 
 # Koyeb URL to self-ping
-KOYEB_URL = "https://rural-dyane-namezakikr-de264926.koyeb.app"  # 🔁 Replace with your deployed app URL
+KOYEB_URL = "https://strategic-morna-namezakikr-abd4b081.koyeb.app"  # 🔁 Replace with your deployed app URL
 
 # 1. Minimal HTTP Server for health check
 def run_http_server():
