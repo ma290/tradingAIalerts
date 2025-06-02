@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # === Telegram Bot Token ===
 BOT_TOKEN = "1701760957:AAHYs626-DnndxSeS9N_7y1_2V3Vn071Yck"
-KOYEB_URL = "https://your-koyeb-app-url.koyeb.app"
+KOYEB_URL = "https://rural-dyane-namezakikr-de264926.koyeb.app"
 
 # === Runtime State ===
 CHAT_ID = -1001967197006
